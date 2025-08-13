@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 <div align="center">
-<img alt="" width="1200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sho0009&theme=2077" />
+<img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sho0009&theme=2077" />
+</div>
+
+<div align="center">
+<img alt="repos-per-language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sho0009&theme=2077" height="200" />
+<img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sho0009&theme=2077" height="200" />
+</div>
+
+<div align="center">
+<img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sho0009&theme=2077" height="200" />
+<img alt="productive-time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sho0009&theme=2077" height="200" />
 </div>
 
 <!--
