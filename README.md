@@ -5,13 +5,8 @@
 </div>
 
 <div align="center">
-<img alt="repos-per-language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sho0009&theme=2077" height="200" />
-<img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sho0009&theme=2077" height="200" />
-</div>
-
-<div align="center">
 <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sho0009&theme=2077" height="200" />
-<img alt="productive-time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sho0009&theme=2077" height="200" />
+<img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=Sho0009&show_icons=true&locale=en&theme=chartreuse-dark" height="200" />
 </div>
 
 <!--
